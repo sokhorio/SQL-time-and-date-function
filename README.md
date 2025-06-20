@@ -31,9 +31,6 @@ Mastering these functions allows you to:
 
 If you're working with **MySQL**, **PostgreSQL**, or **MariaDB**, these tools are a must-have in your SQL toolkit.
 
-[📄 Open PDF]([https://your-hosted-link.com/path/to/file.pdf](https://drive.google.com/file/d/1yOh7QgWhGeERR5LzhV2GSFtFzb91s_Iq/view?usp=sharing))
-
-
 ---
 
 ## 📘 Explore the Guide
