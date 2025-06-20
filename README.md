@@ -10,7 +10,7 @@ SQL date and time functions are essential tools for data professionals.
 
 ---
 
-## 🚀 Why Use These Functions?
+## Why Use These Functions?
 
 Functions like `NOW()`, `DATEDIFF()`, `DATE_ADD()`, and `EXTRACT()` empower you to:
 
@@ -21,7 +21,7 @@ Functions like `NOW()`, `DATEDIFF()`, `DATE_ADD()`, and `EXTRACT()` empower you 
 
 ---
 
-## 🎯 Why It Matters
+## Why It Matters
 
 Mastering these functions allows you to:
 
